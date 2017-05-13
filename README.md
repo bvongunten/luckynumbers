@@ -24,3 +24,5 @@ Download the luckynumbers jar file from the [release] page and run it (Java 8)
 * Do not use other / hacker tools … Think Java!
 * Of course you can restart the executable multiple times if you crash the process (I did <g>!)
 * Do not cheat, find an elegant solution!!
+
+[release]:https://github.com/bvongunten/luckynumbers/releases
