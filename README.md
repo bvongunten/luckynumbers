@@ -4,7 +4,7 @@ Lucky Numbers is the base program for following little java challenge:
 
 ### The prerequisites: ###
 
-Download the luckynumbers jar file and run it (Java 8)
+Download the luckynumbers jar file from the [release] page and run it (Java 8)
  
 ### The challenge: ###
  
