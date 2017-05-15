@@ -1,4 +1,4 @@
-# LuckyNumbers #
+# Lucky Numbers #
 
 Lucky Numbers is the base program for following little java challenge:
 
